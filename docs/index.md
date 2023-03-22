@@ -1,3 +1,5 @@
+# We've now moved over to ArcticDB please take a look at the [repo here](https://github.com/man-group/ArcticDB "Title") & [docs page](https://docs.arcticdb.io/ "Title") We'd love for you to join us on the next phase of the DataFrame revolution!
+
 # Arctic Introduction
 
 ## ArcticDB
